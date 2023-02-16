@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @coderharsh02
-- 👀 I’m interested in MERN stack development
-- 🌱 I’m currently learning DevOps
-- 💞️ I’m looking for co-op/internship
+- 👀 I’m interested in creating webApps using RestFull APIs
+- 🌱 I’m currently learning .Net Core WebAPI 
+- 💞️ I’m looking for a project where I can do open source contribution
 - 📫 How to reach me: harshshah.coder@gmail.com
 
 <!---
